@@ -26,21 +26,9 @@ export default function Hero() {
           Computer-science student, C/C++ & UNIX enthusiast, exploring AI.
         </p>
 
-        {/* social / code link */}
-        <div className="flex gap-4 mt-2">
-          <a
-            href="https://github.com/tadkra"
-            target="_blank"
-            rel="noreferrer"
-            className="text-gray-800 hover:text-sky-600 dark:text-gray-300 dark:hover:text-sky-400 transition"
-          >
-            <Github className="w-6 h-6" />
-          </a>
-        </div>
-
         {/* CV download */}
         <a
-          href="/CV_Tadeas_Krajci.pdf"
+          href="CV_Tadeas_Krajci.pdf"
           download
           className="
             mt-6 inline-flex items-center gap-2

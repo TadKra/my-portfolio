@@ -23,12 +23,6 @@ export default function About() {
             (Debian&nbsp;&amp;&nbsp;Solaris) and <strong>computer architecture</strong>
             (Moore/Mealy machines, assembler).
           </p>
-
-          <p className="mt-4 leading-relaxed text-gray-700 dark:text-gray-200">
-            My focus is on connecting low-level understanding with high-level software
-            design, aiming to build clean and sustainable solutions — whether for
-            embedded systems, servers or databases.
-          </p>
         </div>
       </section>
     </FadeInWhenVisible>
