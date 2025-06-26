@@ -6,25 +6,25 @@ const data = [
     title: "AVR Stopwatch",
     description:
       "Stopwatch written in AVR assembler for ATmega328P using an LCD Keypad Shield.",
-    link: "https://github.com/tadkra/avr-stopwatch",
+    link: "https://github.com/TadKra/avr-stopwatch",
   },
   {
     title: "C++ Linker",
     description:
       "Simplified ELF-like linker written in modern C++ with relocation resolution.",
-    link: "https://github.com/tadkra/cpp-linker",
+    link: "https://github.com/TadKra/simplified-linker",
   },
   {
     title: "Sparse Matrix",
     description:
       "Generic sparse matrix container in C++17 with logarithmic access and unit tests.",
-    link: "https://github.com/tadkra/sparse-matrix",
+    link: "https://github.com/TadKra/sparse-matrix",
   },
   {
     title: "Hash Table M",
     description:
       "Custom hash map with separate chaining and performance benchmarking vs STL.",
-    link: "https://github.com/tadkra/hash-table",
+    link: "https://github.com/TadKra/hash-table",
   },
 ];
 
